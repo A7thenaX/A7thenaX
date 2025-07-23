@@ -2,7 +2,7 @@
 
 **`Hacking Hardware, One Byte at a Time`**
 
-## Passionate about
+## Skills
 - 🌐 Network Engineering
 - 🛡️ Ethical Hacking  
 - 🔬 PCB Design

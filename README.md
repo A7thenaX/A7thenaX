@@ -1,12 +1,13 @@
-## 💾 A7thenaX
+# 💾 A7thenaX
 
 **`Hacking Hardware, One Byte at a Time`**
 
-🏅 [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4124797)](https://tryhackme.com/p/4124797)
-
-Passionate about:
+## Passionate about
 - 🌐 Network Engineering
 - 🛡️ Ethical Hacking  
 - 🔬 PCB Design
 - 🏭 ICS-security
 - 🔧 Building
+
+## Tools
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

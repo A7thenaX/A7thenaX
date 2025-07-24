@@ -3,8 +3,7 @@
 **`Hacking Hardware, One Byte at a Time`**
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/demidf7)       
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-or-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/demidf7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-or-profile-link)
 
 ## Skills and interests
 🌐 Network Engineering   
@@ -13,12 +12,6 @@
 🏭 ICS-security   
 🔧 Building    
 💡 I just love anything with a datasheet thicker than a novel  
-
-## Next projects
-[DIY laptop with fav Linux distro](https://frame.work/be/en/laptop12)   
-Bug Bounty certificate HTB
-
-## Fun Stats
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/A7thenaX.png)
 
 ## Tech stack   

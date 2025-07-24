@@ -2,6 +2,10 @@
 
 **`Hacking Hardware, One Byte at a Time`**
 
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/demidf7)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-or-profile-link)
+
 ## Skills and interests
 🌐 Network Engineering   
 🛡️ Ethical Hacking    

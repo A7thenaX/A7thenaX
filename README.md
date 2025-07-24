@@ -11,11 +11,10 @@
 💡 I just love anything with a datasheet thicker than a novel  
 
 ## Next projects
-[DIY laptop with fav Linux distro](https://frame.work/be/en/laptop12)
+[DIY laptop with fav Linux distro](https://frame.work/be/en/laptop12)   
 Bug Bounty certificate HTB
 
 ## Fun Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7thenaX&theme=dark)
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/A7thenaX.png)
 
 ## Tech stack   

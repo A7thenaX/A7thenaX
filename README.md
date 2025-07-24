@@ -1,9 +1,8 @@
 # 💾 A7thenaX
 
-**`I just love anything with a datasheet thicker than a novel`**    
 **`Network Engineering | Ethical Hacking | PCB Design | ICS Security | Building`**    
 
-Passionate about securing and designing robust systems from hardware to networks. Constantly learning and building innovative solutions.      
+Passionate about securing and designing robust systems from hardware to networks. Constantly learning and building innovative solutions. Basically, I just love anything with a datasheet thicker than a novel   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demidf7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-or-profile-link) [![TryHackMe](https://img.shields.io/badge/TryHackMe-28a745?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/A7thenaX)
 

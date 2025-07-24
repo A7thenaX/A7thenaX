@@ -10,7 +10,7 @@
 🔧 Building    
 💡 I just love anything with a datasheet thicker than a novel  
 
-## Projects
+## Next project
 [DIY laptop with fav Linux distro](https://frame.work/be/en/laptop12)
   
 ## Tech stack   
